@@ -6,7 +6,7 @@ def ji():
 
 def pause():
     input("press enter key to continue")
-title = "advanced unit converter"
+title = "unit converter"
 def hedder(title):
     print("-" * 70)
     print(title.center(70))
@@ -125,6 +125,7 @@ else:
     time.sleep(1)
     exit()
     
+
 
 
 
